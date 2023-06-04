@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Kotlin and Pyhton
 - 💞️ I’m looking to collaborate on other developers
 - ✨ I am addicted to chess
-- 👋👋👋 If you want to support me please buy coffee - https://www.buymeacoffee.com/ugurhakan👋👋👋
+- 👋👋👋 If you want to support me please buy coffee - https://www.buymeacoffee.com/ugurhakan
 
 
